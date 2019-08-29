@@ -194,8 +194,8 @@ public class Linkedlist {
 //		second.next = third;
 
 		insertAtFirst(list,4);
-	    insertAtFirst(list,3);
-	    insertAtFirst(list,1);
+	        insertAtFirst(list,3);
+	        insertAtFirst(list,1);
 	    
 		print();               // 1 3 4 
 		System.out.println();
@@ -207,8 +207,8 @@ public class Linkedlist {
 		print();               // 1 3 4 5 6 
 		System.out.println();
 		
-	    addBefore(list,3,2);
-	    addAfter(list,6,7);
+	        addBefore(list,3,2);
+	        addAfter(list,6,7);
 		
 		print();     
 		System.out.println();  //1 2 3 4 5 6 7 
